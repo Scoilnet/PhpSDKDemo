@@ -1,7 +1,7 @@
 {
     "name": "scoilnet/php-sdk-demo",
-    "description": "Scoilnet SDK for PHP",
-    "keywords": ["oauth2", "scoilnet", "client","demo"],
+    "description": "Demo of the Scoilnet PHP SDK",
+    "keywords": ["oauth2", "scoilnet", "client", "demo"],
     "license": "MIT",
     "require": {
         "php": ">=5.3.0",
