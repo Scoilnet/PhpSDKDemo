@@ -17,10 +17,10 @@ http://getcomposer.org/ or just run the following command:
 
 Then, use the `create-project` command to create the demo:
 
-    php composer.phar create-project scoilnet/php-sdk-demo path/to/site
+    php composer.phar create-project -s dev scoilnet/php-sdk-demo path/to/site
 
 Composer will install demo site and all its dependencies under the
-`path/to/site` directory.
+`path/to/site` directory.s
 
 
 2) Server Configurtion
