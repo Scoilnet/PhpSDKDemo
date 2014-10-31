@@ -3,13 +3,12 @@ Scoilnet PHP SDK DEMO
 
 This website demo is a quick example of how to use the [Scoilnet PHP SDK](https://github.com/Scoilnet/PhpSDK)
 
-For full documentation, see [Scoilnet's developer documentation](https://www.scoilnet.ie/scoilnet-api/documentation)
+For full documentation on the Scoilnet SDK, see [Scoilnet's developer documentation](https://www.scoilnet.ie/scoilnet-api/documentation)
 
 1) Installation
 ----------------------------------
 
-This demo uses [Composer](http://getcomposer.org) to manage its dependencies, so the recommended way to install it on your own server
-is to use it.
+This demo uses [Composer](http://getcomposer.org) to manage its dependencies. It is the recommended way to install it on your own server.
 
 If you don't have Composer yet, download it following the instructions on
 http://getcomposer.org/ or just run the following command:
@@ -26,7 +25,8 @@ Composer will install demo site and all its dependencies under the
 
 2) Server Configurtion
 ----------------------------------
-Your server configuration should point to the web/ folder. Now go to http://localhost/ and you should see the demo
+Your server configuration should point to the web/ folder. 
+When set up go to http://localhost/ and if everything was setup correctly you should see resource showing and be able to preform searches.
 
 3) Generate your own keys
 ----------------------------------
